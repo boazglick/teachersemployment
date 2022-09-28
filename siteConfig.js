@@ -49,6 +49,12 @@ module.exports = {
         label: "יצירת קשר",
         url: "https://teachersemployment.org/contact",
       },
+            
+       {
+        label: "קרסו מאיה",
+        url: "https://maya.tase.co.il/company/2384",
+      },
+      
      
     ],
   },
